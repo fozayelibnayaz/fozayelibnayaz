@@ -1,0 +1,10 @@
+{
+  "_comment": "Edit this one file to change the CURRENTLY card. bin/auto_update.py reads it, rebuilds assets/now.svg, and the GitHub Action commits it. The STATUS line is overwritten automatically with whatever your portfolio says, so leave it as a fallback.",
+  "items": {
+    "building": "AI YouTube Command Center - Next.js + OAuth + 30 AI tools",
+    "shipping": "Eagle 3D Analytics Hub - Streamlit + MongoDB, 4x daily pipeline",
+    "learning": "LLM function-calling, advanced Playwright, Kubernetes",
+    "reading": "Designing Data-Intensive Applications (Kleppmann)",
+    "status": "Open to Full-Stack / Data Analyst / WordPress roles"
+  }
+}

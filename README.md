@@ -15,12 +15,14 @@
 
 <br /><br />
 
-<a href="https://github.com/fozayelibnayaz"><img src="https://img.shields.io/badge/Dhaka-🇧🇩%20Bangladesh-1f2937?style=flat-square" alt="Location" /></a>
+<!-- AUTO:GITHUB-BADGES:start -->
+<a href="https://github.com/fozayelibnayaz"><img src="https://img.shields.io/badge/REPOS-37%20public-1f2937?style=flat-square" alt="Public repositories" /></a>
+<a href="https://github.com/fozayelibnayaz?tab=followers"><img src="https://img.shields.io/badge/FOLLOWERS-1-1f2937?style=flat-square" alt="Followers" /></a>
+<a href="https://github.com/fozayelibnayaz"><img src="https://img.shields.io/badge/CONTRIBUTIONS-457%20this%20year-1f2937?style=flat-square" alt="Contributions this year" /></a>
 <a href="#-lets-talk"><img src="https://img.shields.io/badge/STATUS-Open%20to%20work-success?style=flat-square" alt="Open to work" /></a>
-<a href="https://portfolio-ayaz.netlify.app"><img src="https://img.shields.io/badge/IELTS-6.5%20%2F%20B2-1f2937?style=flat-square" alt="IELTS 6.5" /></a>
-<a href="https://github.com/fozayelibnayaz"><img src="https://img.shields.io/badge/EXPERIENCE-4%2B%20years-1f2937?style=flat-square" alt="Experience" /></a>
-<a href="https://github.com/fozayelibnayaz"><img src="https://img.shields.io/badge/PROJECTS-36%20public%20repos-1f2937?style=flat-square" alt="Projects" /></a>
+<a href="https://portfolio-ayaz.netlify.app/"><img src="https://img.shields.io/badge/IELTS-6.5%20%2F%20B2-1f2937?style=flat-square" alt="IELTS 6.5" /></a>
 <img src="https://komarev.com/ghpvc/?username=fozayelibnayaz&style=flat-square&color=0ea5e9&label=PROFILE+VIEWS" alt="Profile views" />
+<!-- AUTO:GITHUB-BADGES:end -->
 
 </div>
 
@@ -321,6 +323,35 @@ My portfolio rebuilt as a fake Ubuntu terminal — with a typing shell, `help` /
 
 ---
 
+## 🔄 Latest from the workshop
+
+<sub>Everything in this section is regenerated automatically, every night at 00:10 UTC, straight from the GitHub API — so it can never drift out of date.</sub>
+
+<!-- AUTO:LATEST-REPOS:start -->
+| Repo | Language | What it is | Updated |
+|---|---|---|---|
+| [ayaz-portfolio](https://github.com/fozayelibnayaz/ayaz-portfolio) | <img src="https://img.shields.io/badge/CSS-1572b6?style=flat-square" alt="CSS" /> | *no description yet — worth adding* | `2026-08-28` |
+| [eagle-analytics-deploy](https://github.com/fozayelibnayaz/eagle-analytics-deploy) | <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square" alt="Python" /> | *no description yet — worth adding* | `2026-07-27` |
+| [eagle-analytics](https://github.com/fozayelibnayaz/eagle-analytics) | <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square" alt="Python" /> | *no description yet — worth adding* | `2026-07-22` |
+| [DevConf2026](https://github.com/fozayelibnayaz/DevConf2026) | <img src="https://img.shields.io/badge/HTML-e34f26?style=flat-square" alt="HTML" /> | *no description yet — worth adding* | `2026-07-10` |
+| [demo-portfolio](https://github.com/fozayelibnayaz/demo-portfolio) | <img src="https://img.shields.io/badge/HTML-e34f26?style=flat-square" alt="HTML" /> | *no description yet — worth adding* | `2026-07-07` |
+| [employee-management](https://github.com/fozayelibnayaz/employee-management) | <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square" alt="Python" /> | Employee Management CLI | Professional command-line application for managin… | `2026-07-05` |
+<!-- AUTO:LATEST-REPOS:end -->
+
+<br>
+
+**🕒 Recent activity**
+
+<!-- AUTO:RECENT-ACTIVITY:start -->
+- **28 Aug 2026** — pushed to [ayaz-portfolio](https://github.com/fozayelibnayaz/ayaz-portfolio)
+- **27 Jul 2026** — pushed to [eagle-analytics-deploy](https://github.com/fozayelibnayaz/eagle-analytics-deploy)
+- **22 Jul 2026** — pushed to [eagle-analytics](https://github.com/fozayelibnayaz/eagle-analytics)
+- **10 Jul 2026** — pushed to [DevConf2026](https://github.com/fozayelibnayaz/DevConf2026)
+- **07 Jul 2026** — pushed to [demo-portfolio](https://github.com/fozayelibnayaz/demo-portfolio)
+<!-- AUTO:RECENT-ACTIVITY:end -->
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -481,7 +512,9 @@ If something here helped you, the cheapest thing that helps me a lot:
 
 <br><br>
 
-<sub>⭐ <b>2026 Fozayel Ibn Ayaz</b> · This README is hand-written markdown — view the [source](https://github.com/fozayelibnayaz/fozayelibnayaz/blob/main/README.md) and steal the idea · Last refreshed Aug 2026</sub>
+<!-- AUTO:FOOTER-STAMP:start -->
+<sub>⭐ <b>2026 Fozayel Ibn Ayaz</b> · This README is hand-written markdown — view the [source](https://github.com/fozayelibnayaz/fozayelibnayaz/blob/main/README.md) and steal the idea · dynamic blocks track your latest activity, last change <b>28 Aug 2026</b></sub>
+<!-- AUTO:FOOTER-STAMP:end -->
 
 <br>
 
