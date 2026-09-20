@@ -1,10 +1,10 @@
 <div align="center">
 
-<a href="https://portfolio-ayaz.netlify.app">
+<a href="https://fozayelibnayaz.github.io/portfolio/">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,40:8b5cf6,100:ec4899&height=230&section=header&text=FOZAYEL%20IBN%20AYAZ&fontSize=46&fontColor=ffffff&fontAlignY=34&desc=Full-Stack%20Developer%20·%20Data%20Analyst%20·%20WordPress%20Engineer&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="Fozayel Ibn Ayaz — Full-Stack Developer, Data Analyst, WordPress Engineer" />
 </a>
 
-<a href="https://portfolio-ayaz.netlify.app"><img src="https://img.shields.io/badge/PORTFOLIO-fozayel.dev-0ea5e9?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;
+<a href="https://fozayelibnayaz.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-fozayel.dev-0ea5e9?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/fozayel-ibn-ayaz/"><img src="https://img.shields.io/badge/LINKEDIN-Fozayel%20Ibn%20Ayaz-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:ibnayaz789@gmail.com"><img src="https://img.shields.io/badge/EMAIL-ibnayaz789%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
 <a href="https://github.com/fozayelibnayaz/AI-YouTube-Command-Center"><img src="https://img.shields.io/badge/BEST%20WORK-AI%20YouTube%20Command%20Center-8b5cf6?style=for-the-badge" alt="Best work" /></a>
@@ -433,7 +433,7 @@ Best for roles, referrals and networking.
 
 ### 🖥 Portfolio
 
-[**portfolio-ayaz.netlify.app**](https://portfolio-ayaz.netlify.app)
+[**fozayelibnayaz.github.io/portfolio**](https://fozayelibnayaz.github.io/portfolio/)
 
 The interactive terminal experience.
 
